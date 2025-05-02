@@ -1,6 +1,8 @@
-# No subimos el fuente completo del kernel ni artefactos de compilación
+# Ignorar las descargas y compilaciones del kernel
 scheduler_dev/
-scheduler/linux-2.6.24-casio/
-*.deb
+/scheduler/
 *.tar.bz2
+*.deb
+
+# Ignorar artefactos de Git
 *.lock
