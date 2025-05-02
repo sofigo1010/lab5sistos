@@ -1,0 +1,6 @@
+# No subimos el fuente completo del kernel ni artefactos de compilación
+scheduler_dev/
+scheduler/linux-2.6.24-casio/
+*.deb
+*.tar.bz2
+*.lock
